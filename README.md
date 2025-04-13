@@ -27,7 +27,7 @@ Employee attrition is the rate at which employees leave a company. The goal of t
 
 
 
-### Methodology:-
+### :memo: Methodology:-
 ```
 - Load the Dataset: 
 HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
