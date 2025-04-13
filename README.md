@@ -27,7 +27,7 @@ Employee attrition is the rate at which employees leave a company. The goal of t
 
 
 
-#### Methodology:-
+### Methodology:-
 ```
 - Load the Dataset: 
 HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
@@ -92,7 +92,7 @@ The T-Test is performed to analyze the Numerical Features' Importance in Employe
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### :key: CONCLUSION
+### CONCLUSION
 ```
 - The company's attrition rate stands at 16.12%, meaning that one in every six employees leaves, indicating challenges in employee retention.
 
@@ -118,7 +118,7 @@ The T-Test is performed to analyze the Numerical Features' Importance in Employe
 ```
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### :globe_with_meridians: RECOMMENDATIONS
+###  RECOMMENDATIONS
 ```
 - Provide targeted support and incentives for younger and newly hired employees, especially in high-turnover departments like Sales and Tech.
 
