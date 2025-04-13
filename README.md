@@ -4,7 +4,7 @@
 
 
 <div align= "center">
-    <img src="https://media0.giphy.com/media/3o85xGdsSCHfTPBJok/giphy.gif?cid=ecf05e47l31i9etrpyq28fkfu8e6m1kpgrwngdx1ga4zx5n6&rid=giphy.gif&ct=g">
+    <img src="https://github.com/Noraelbendary/-Noraelbendary-Human-Resources-Dataset-Analysis-/blob/main/12643932_5031659.jpg">
 </div>
 
 
