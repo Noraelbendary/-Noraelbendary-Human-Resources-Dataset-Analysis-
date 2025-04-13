@@ -15,7 +15,7 @@ Human Resource Data Analysis is the process of collecting and analyzing employee
 Historically, interest in HR data analytics began in the 1970s, when companies used simple statistics to analyze resignation rates and absenteeism. Over time, tools and techniques have evolved significantly, and companies now rely on more complex data analysis to identify factors affecting employee satisfaction and retention. 
 
 
-
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ### :round_pushpin: OBJECTIVE
