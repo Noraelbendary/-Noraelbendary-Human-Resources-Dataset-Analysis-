@@ -92,7 +92,7 @@ The T-Test is performed to analyze the Numerical Features' Importance in Employe
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### CONCLUSION
+### :key: CONCLUSION
 ```
 - The company's attrition rate stands at 16.12%, meaning that one in every six employees leaves, indicating challenges in employee retention.
 
@@ -118,7 +118,7 @@ The T-Test is performed to analyze the Numerical Features' Importance in Employe
 ```
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-###  RECOMMENDATIONS
+### :sparkles: RECOMMENDATIONS
 ```
 - Provide targeted support and incentives for younger and newly hired employees, especially in high-turnover departments like Sales and Tech.
 
