@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12b4b0fd-ebf7-4740-8914-e24085a0d1f6)<div align= "center">
+https://drive.google.com/drive/folders/1jNAdz5DigEthu8tELwiBp9akQH5Hoam-?usp=drive_link
     <h2> Human Resources Datset Analysis </h2><br>
 </div>
 
