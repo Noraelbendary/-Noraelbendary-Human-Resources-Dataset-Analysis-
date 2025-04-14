@@ -113,8 +113,6 @@ The T-Test is performed to analyze the Numerical Features' Importance in Employe
 
 - The dataset contains no missing or erroneous values, and all features are in the correct data type.
 
-- There are strong positive correlations between attrition and: Performance Rating, Monthly Income, Number of Companies Worked, and Distance from Home.
-
 ```
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
