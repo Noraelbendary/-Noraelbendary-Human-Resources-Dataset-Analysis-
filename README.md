@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1jNAdz5DigEthu8tELwiBp9akQH5Hoam-?usp=dri
 
 
 <div align= "center">
-    <img src="https://github.com/Noraelbendary/-Noraelbendary-Human-Resources-Dataset-Analysis-/blob/main/12643932_5031659.jpg">
+    <img src="https://github.com/Noraelbendary/-Noraelbendary-Human-Resources-Dataset-Analysis-/blob/main/Image.jpg">
 </div>
 
 
